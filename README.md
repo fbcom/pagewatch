@@ -5,7 +5,7 @@ A simple "website changed" notification mailer.
 
 The script loops over a list of urls and sends out an email to a list of predefined subscribers when it detects that the contents found under the specific url has changed.
 
-Note: Whitesspaces, JavaScript and Comments are stripped from the contents before 
+Note: whitesspaces, JavaScript and comments are stripped from the contents before 
 a comparison is made.
 
 Email messages and a list of subscribers can be configured independently for each url.
