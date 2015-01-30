@@ -1,0 +1,10 @@
+[
+    {
+        "url": "http:\/\/www.php.net",
+        "subject": "PHP.net was updated",
+        "message": "The contents on\n\t${url}\nhas changed.",
+        "subscribers": "your@mail.com,yourother@mail.com",
+        "hash": "",
+        "timestamp": 0
+    },
+]
